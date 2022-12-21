@@ -1,0 +1,21 @@
+/* color palette
+----------------------------- */
+:root {
+  --bg-base: #fff;
+  --color-base: #222222;
+  --color-white: #fff;
+  --color-red: #d40019;
+  --color-gray: #ccc;
+  --color-light:#ADD8E6;
+  --color-darkgray: #89897e;
+  --color-dodgerblue: #1e90ff;
+}
+
+$bg-base: var(--bg-base);
+$color-base: var(--color-base);
+$color-white: var(--color-white);
+$color-red: var(--color-red);
+$color-gray: var(--color-gray);
+$color-light: var(--color-light);
+$color-darkgray: var(--color-darkgray);
+$color-dodgerblue: var(--color-dodgerblue);
